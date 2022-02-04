@@ -2,14 +2,23 @@ body { background-color: #F7ECDE;
 }
 table {background-color: #E9DAC1;
 }
-hr { border-color: #E9DAC1;
-text-align: center; border-style: dotted none none; 
-width: 3%;
-border-width: 5px;
+hr {  border-color: #E9DAC1;
+      text-align: center; 
+      border-style: dotted none none; 
+      width: 3%;
+      border-width: 5px;
 }
-.Rrrrr { font: italic 40px serif; fill:#54BAB9;  }
 
-h1{ color: #54BAB9; font-family: fantasy; }
-h3{ color: #54BAB9; font-family: sans-serif;}
+h1{ color: #54BAB9; 
+    font-family: fantasy; }
+h3{ color: #54BAB9; 
+    font-family: sans-serif;}
 
-#heading { background-color: #FBF8F1; width: 100% ; }
+#heading { background-color: #FBF8F1; 
+            width: 100% ; }
+
+
+footer{ background-color: #FBF8F1; 
+        height: 100px;
+        text-align:center;
+        width: 100% ;   }
